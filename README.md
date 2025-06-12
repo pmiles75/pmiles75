@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a web developer within 12 -18 months. 
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on beginner to intermediate web projects. 
-- 📫 How to reach me by email @ milesp1975@gmail.com
+- 📫 How to reach me by email @ patrickmiles.work@gmail.com
 
 <!---
 pmiles75/pmiles75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
